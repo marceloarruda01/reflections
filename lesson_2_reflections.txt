@@ -1,0 +1,19 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Git cria um diretório oculto com arquivos que farão o controle de versão e 
+	histórico do repositório. É necessário para informar ao Git que aquela 
+	pasta e suas subpastas terão o controle de versão ativado.
+
+
+How is the staging area different from the working directory and the repository?
+ What value do you think it offers?
+
+ 	Ela contém apenas os arquivos modificados ou adicionados que farão parte do 
+ 	próximo commit. No working directory podem existir arquivos não adicionados 
+ 	ou modificados que não estão presentes na staging area; e no repositório 
+ 	existem arquivos que foram partes de commits anteriores. Como uma área 
+ 	intermediária entre o diretório de trabalho e o respositório ela permite organizar 
+ 	os commits em pedaços de mudanças logicamente relacionadas que serão enviadas
+ 	para o repositório.
+
+ 
