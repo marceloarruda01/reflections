@@ -28,3 +28,8 @@ How is the staging area different from the working directory and the repository?
  	criar novas funcionalidades e testá-las sem modificar a versão atual.
  	Os branches ajudam criando repositórios separados para cada ação específica
  	que desejamos fazer.
+
+ How do the diagrams help you visualize the brach structure?
+
+ 	Mostrando as ligações que existem entre os vários commits realizados em 
+ 	cada branch.
