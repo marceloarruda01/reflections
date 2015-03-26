@@ -21,6 +21,10 @@ How is the staging area different from the working directory and the repository?
  	Adicionando para a staging area apenas os arquivos modificados que estão
  	logicamente relacionados com a mudança realizada antes de cada commit.
 
- 
+ What are some situations when branches would be helpful in keeping your history
+ organized? How would branches help?
 
- 
+ 	Criar versões específicas com funcionalidades diferentes, testar alterações, 
+ 	criar novas funcionalidades e testá-las sem modificar a versão atual.
+ 	Os branches ajudam criando repositórios separados para cada ação específica
+ 	que desejamos fazer.
