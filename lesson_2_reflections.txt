@@ -33,3 +33,14 @@ How is the staging area different from the working directory and the repository?
 
  	Mostrando as ligações que existem entre os vários commits realizados em 
  	cada branch.
+
+ What is the result of merging two branches together? Why do we represent it in
+ the diagram the way we do?
+
+ 	Um histórico que combina os commits dos dois branches misturados em ordem de
+ 	data/tempo.
+ 	Porque mostra a combinação dos dois braches e a rastreabilidade que permanece
+ 	através do commit resultante.
+
+ 	
+
