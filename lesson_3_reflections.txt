@@ -1,5 +1,11 @@
 When would you want to use a remote repository rather than keeping all you work local?
+  
   Quando quiser compartilhar o trabalho com outras pessoas, quando quiser receber 
   contribuições de outras pessoas ou quando quiser acessar o repositório a partir de 
   outros computadores.
-  
+
+Why might you want to always pull changes manually rather than having Git automatically
+stay up-to-date with your remote repository?
+	
+	Porque o Git pode sobrescrever algumas alterações que estou fazendo localmente no 
+	mesmo arquivo na minha working area caso não tenha criado um branch para isso.
