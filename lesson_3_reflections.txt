@@ -9,3 +9,18 @@ stay up-to-date with your remote repository?
 	
 	Porque o Git pode sobrescrever algumas alterações que estou fazendo localmente no 
 	mesmo arquivo na minha working area caso não tenha criado um branch para isso.
+
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+
+	Forks são cópias, ou clones, de repositórios que são realizados dentro da ferramenta 
+	GitHub. São utilizados para criar cópias de repositórios no GitHub que serão
+	modificados sem alterar o repositório de origem.
+
+	Clones são cópias de repositórios que podem ser feitas localmente entre pastas do 
+	mesmo computador, ou remotamente a partir de um repositório online para o seu
+	computador. São utilizados para trabalhar nos arquivos do repositório de forma colaborativa com outros membros do projeto.
+
+	Branches são caminhos, ou ramos, distintos de trabalho dentro do mesmo repositório 
+	que contém a história de um ou mais commits. São utilizados para testes, correções e/ou criações de novas funcionalidades.
+	
