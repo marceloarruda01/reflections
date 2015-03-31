@@ -23,4 +23,10 @@ instead of another?
 
 	Branches são caminhos, ou ramos, distintos de trabalho dentro do mesmo repositório 
 	que contém a história de um ou mais commits. São utilizados para testes, correções e/ou criações de novas funcionalidades.
-	
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	Você pode comparar o trabalho no seu branch com as modificações mais recentes que 
+	foram realizadas no servidor, inclusive podendo ir fazendo o merge delas para 
+	incorporá-las no seu brach.
+
